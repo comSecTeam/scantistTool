@@ -15,6 +15,14 @@
   </properties>
 
   <dependencies>
+    <!-- Add Dependencies here -->
+<dependency>
+    <groupId>org.apache.axis2</groupId>
+    <artifactId>axis2</artifactId>
+    <version>1.5.1</version>
+    <type>pom</type>
+</dependency>
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
