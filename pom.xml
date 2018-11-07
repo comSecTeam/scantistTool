@@ -16,14 +16,14 @@
 
   <dependencies>
     <!-- Add Dependencies here -->
-
-<!-- https://mvnrepository.com/artifact/org.apache.tomcat/catalina -->
+    
+<!-- https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-catalina -->
 <dependency>
     <groupId>org.apache.tomcat</groupId>
-    <artifactId>catalina</artifactId>
-    <version>6.0.39</version>
-    <scope>provided</scope>
+    <artifactId>tomcat-catalina</artifactId>
+    <version>8.0.0-RC10</version>
 </dependency>
+
 
 
 
