@@ -15,12 +15,14 @@
   </properties>
 
   <dependencies>
- <!-- https://mvnrepository.com/artifact/org.apache.struts/struts-core -->
+    
+<!-- https://mvnrepository.com/artifact/org.apache.tapestry/tapestry-core -->
 <dependency>
-    <groupId>org.apache.struts</groupId>
-    <artifactId>struts-core</artifactId>
-    <version>1.3.10</version>
+    <groupId>org.apache.tapestry</groupId>
+    <artifactId>tapestry-core</artifactId>
+    <version>5.3.6</version>
 </dependency>
+
 
 
     <dependency>
