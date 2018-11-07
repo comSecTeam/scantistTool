@@ -20,7 +20,7 @@
 <dependency>
     <groupId>org.jenkins-ci.main</groupId>
     <artifactId>jenkins-core</artifactId>
-    <version>1.491</version>
+    <version>1.490</version>
     <scope>provided</scope>
 </dependency>
 
