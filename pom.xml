@@ -15,15 +15,13 @@
   </properties>
 
   <dependencies>
-    
-<!-- https://mvnrepository.com/artifact/org.apache.tapestry/tapestry-core -->
+
+    <!-- https://mvnrepository.com/artifact/org.apache.axis/axis -->
 <dependency>
-    <groupId>org.apache.tapestry</groupId>
-    <artifactId>tapestry-core</artifactId>
-    <version>5.3.5</version>
+    <groupId>org.apache.axis</groupId>
+    <artifactId>axis</artifactId>
+    <version>1.4</version>
 </dependency>
-
-
 
     <dependency>
       <groupId>junit</groupId>
