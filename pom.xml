@@ -17,12 +17,13 @@
   <dependencies>
     <!-- Add Dependencies here -->
 
-<!-- https://mvnrepository.com/artifact/org.apache.solr/solr-core -->
+<!-- https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-catalina -->
 <dependency>
-    <groupId>org.apache.solr</groupId>
-    <artifactId>solr-core</artifactId>
-    <version>7.0.0</version>
+    <groupId>org.apache.tomcat</groupId>
+    <artifactId>tomcat-catalina</artifactId>
+    <version>7.0.50</version>
 </dependency>
+
 
 
 
