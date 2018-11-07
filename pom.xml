@@ -16,11 +16,11 @@
 
   <dependencies>
 
-    <!-- https://mvnrepository.com/artifact/org.apache.axis/axis -->
+<!-- https://mvnrepository.com/artifact/org.jboss.weld/weld-core-impl -->
 <dependency>
-    <groupId>org.apache.axis</groupId>
-    <artifactId>axis</artifactId>
-    <version>1.4</version>
+    <groupId>org.jboss.weld</groupId>
+    <artifactId>weld-core-impl</artifactId>
+    <version>3.0.0.Alpha2</version>
 </dependency>
 
     <dependency>
