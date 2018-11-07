@@ -17,17 +17,12 @@
   <dependencies>
     <!-- Add Dependencies here -->
     
-<!-- https://mvnrepository.com/artifact/org.jboss.seam/jboss-seam -->
+<!-- https://mvnrepository.com/artifact/org.jboss.seam/jboss-seam-remoting -->
 <dependency>
     <groupId>org.jboss.seam</groupId>
-    <artifactId>jboss-seam</artifactId>
+    <artifactId>jboss-seam-remoting</artifactId>
     <version>2.3.1.Final</version>
 </dependency>
-
-
-
-
-
 
     <dependency>
       <groupId>junit</groupId>
