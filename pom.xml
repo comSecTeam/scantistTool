@@ -16,13 +16,13 @@
 
   <dependencies>
 
-<!-- https://mvnrepository.com/artifact/org.jenkins-ci.main/jenkins-core -->
+<!-- https://mvnrepository.com/artifact/org.richfaces.core/richfaces-core-impl -->
 <dependency>
-    <groupId>org.jenkins-ci.main</groupId>
-    <artifactId>jenkins-core</artifactId>
-    <version>1.490</version>
-    <scope>provided</scope>
+    <groupId>org.richfaces.core</groupId>
+    <artifactId>richfaces-core-impl</artifactId>
+    <version>4.3.7.Final</version>
 </dependency>
+
 
 
 
